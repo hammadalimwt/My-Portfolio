@@ -527,30 +527,36 @@ nav ul li a:hover {
     font-weight: 500;
     margin-top: 10px;
 }
-.circle3{
-    background-image: url("Images/Icons/100%.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-}
 
 .circle1 {
     background-image: url("Images/Icons/100%.png");
+    border: 10px solid  #FF690F;
+    border-radius: 50%;
 }
 
 .circle2 {
     background-image: url("Images/Icons/100%.png");
+    border: 10px solid  #FF690F;
+    border-radius: 50%;
 }
 
 .circle3 {
     background-image: url("Images/Icons/60%.png");
+    border: 10px solid  #FF690F;
+    border-radius: 50%;
+
 }
 
 .circle4 {
     background-image: url("Images/Icons/70%.png");
+    border: 10px solid  #FF690F;
+    border-radius: 50%;
 }
 
 .circle5 {
     background-image: url("Images/Icons/85%.png");
+    border: 10px solid  #FF690F;
+    border-radius: 50%;
 }
 
 
