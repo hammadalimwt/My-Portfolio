@@ -890,6 +890,9 @@ display: none;
         text-align: center;
         /* padding: 10px 10px; */
     }
+    .about{
+        padding: 0;
+    }
     .details ,.project-cards,address{
         display: flex;
         flex-direction: column;
