@@ -96,7 +96,9 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 43px);
+    padding-bottom: 80px;
+    padding-top: 50px;
+    /* height: calc(100vh - 43px); */
 }
 
 .left,
@@ -371,8 +373,10 @@ nav ul li a:hover {
     flex-direction: column;
     gap: 20px;
     align-items: center;
-    padding: 100px;
-    padding-bottom: 200px;
+    /* padding: 100px; */
+    padding-top: 50px;
+    padding-bottom: 20px;
+    /* padding-bottom: 200px; */
 }
 
 .about h2 {
@@ -523,6 +527,11 @@ nav ul li a:hover {
     font-weight: 500;
     margin-top: 10px;
 }
+.circle3{
+    background-image: url("Images/Icons/100%.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .circle1 {
     background-image: url("Images/Icons/100%.png");
@@ -544,6 +553,7 @@ nav ul li a:hover {
     background-image: url("Images/Icons/85%.png");
 }
 
+
 /* About Me End */
 
 /* Projects Start */
@@ -553,7 +563,9 @@ nav ul li a:hover {
     row-gap: 30px;
     column-gap: 70px;
 }
-
+.projects h2{
+    font-size: 36px;
+}
 .projects {
     color: #ffffff;
     display: flex;
@@ -606,7 +618,7 @@ nav ul li a:hover {
 }
 
 .contact h2 {
-    font-size: 48px;
+    font-size: 36px;
 }
 
 .contact p {
