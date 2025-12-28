@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    /* border: 1px solid white; */
+    border: 1px solid white;
 }
 
 @font-face {
@@ -885,9 +885,9 @@ display: none;
         /* margin-left: 20px; */
     }
     .services p, .about,.contact p{
-        width: 100%;
+        width: 320px;
         text-align: center;
-        padding: 10px 10px;
+        /* padding: 10px 10px; */
     }
     .details ,.project-cards,address{
         display: flex;
@@ -924,7 +924,7 @@ display: none;
     .contact form{
         display: flex;
         flex-wrap: wrap;
-        width: 300px;
+        width: 320px;
         /* margin-left: 25px; */
     }
     .submitbtn{
@@ -945,12 +945,12 @@ display: none;
 
     }
     .footer{
-        width: 310px;
+        width: 330px;
     }
     .footer_icons, .icons{
         justify-content: center;
         display: flex;
-        width: 300px;
+        width: 330px;
     }
     
     
