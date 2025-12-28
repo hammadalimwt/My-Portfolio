@@ -837,6 +837,7 @@ display: none;
         padding: 0;
         margin: 0;
         margin-left: 10px;
+        padding-bottom: 10px;
         /* padding-left: 20px ; */
     
     }
@@ -855,11 +856,12 @@ display: none;
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-right: 20px;
+        /* margin-right: 20px; */
 /* padding-right: 20px; */
         gap: 12px;
         
-        /* margin-left: 20px; */
+        margin-left: 20px;
+        margin-bottom: 5px;
     }
     .btns{
         margin-left: 50px;
@@ -892,6 +894,7 @@ display: none;
     }
     .about{
         padding: 0;
+        padding-left: 10px;
     }
     .details ,.project-cards,address{
         display: flex;
