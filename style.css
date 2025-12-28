@@ -872,7 +872,7 @@ display: none;
         flex-direction: column;
         /* grid-template-columns: 1fr; */
         width: 330px;
-        padding: 0;
+        padding: 0 10px;
         gap: 15px;
         align-items: start;
         justify-content: center;
