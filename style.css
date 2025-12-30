@@ -469,7 +469,9 @@ nav ul li a:hover {
     gap: 10px;
     transition-duration: .5s;
 }
-
+a{
+    text-decoration: none;
+}
 .cvbtn:hover {
     transform: scale(1.05);
 }
@@ -529,32 +531,27 @@ nav ul li a:hover {
 }
 
 .circle1 {
-    background-image: url("Images/Icons/100%.png");
     border: 10px solid  #FF690F;
     border-radius: 50%;
 }
 
 .circle2 {
-    background-image: url("Images/Icons/100%.png");
     border: 10px solid  #FF690F;
     border-radius: 50%;
 }
 
 .circle3 {
-    background-image: url("Images/Icons/60%.png");
     border: 10px solid  #FF690F;
     border-radius: 50%;
 
 }
 
 .circle4 {
-    background-image: url("Images/Icons/70%.png");
     border: 10px solid  #FF690F;
     border-radius: 50%;
 }
 
 .circle5 {
-    background-image: url("Images/Icons/85%.png");
     border: 10px solid  #FF690F;
     border-radius: 50%;
 }
