@@ -836,7 +836,7 @@ address{
 /* Responsive For Mobile Start */
 @media screen and (max-width:600px) {
     .nav_links,.footer_links,.line{
-display: none;
+        display: none;
     }
     .hero {
         display: flex;
